@@ -38,3 +38,7 @@ Inspired by ScriptHookVDotNet, ScriptHookVPy allows you to write GTA V mods in P
 ## How It Works
 
 ScriptHookVPy loads all Python scripts from the `pythons/` folder and executes them in a loop.
+
+## GTA5-MODS.COM
+
+[ScriptHookVPy](https://www.gta5-mods.com/tools/scripthookvpy-python-scripting-for-gta-v)
