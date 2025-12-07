@@ -1,5 +1,8 @@
 # ScriptHookVPy 🐍
 
+<img width="2048" height="2048" alt="ScriptHookVPy" src="https://github.com/user-attachments/assets/8bbe93f2-7d60-4c62-9ef8-08626948f49c" />
+
+
 **Python scripting for Grand Theft Auto V**
 
 Inspired by ScriptHookVDotNet, ScriptHookVPy allows you to write GTA V mods in Python with full access to all native functions.
